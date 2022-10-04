@@ -36,3 +36,5 @@ dtypes: datetime64[ns](2), float64(5), int64(2), object(15)
 memory usage: 9.4+ MB
 ## Image1: Diff in Avg Sales - quarterly
 This Sparkline chart shows Subcategory wise Sales and profit from year 2011 tp 2014.
+
+![Subcategory sales](https://user-images.githubusercontent.com/114546267/193742539-7186b284-1792-4c91-ba8f-80f523dea281.png)
