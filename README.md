@@ -45,3 +45,8 @@ This Sparkline chart shows Subcategory wise Sales and profit from year 2011 tp 2
 ## Image3: Total Sale for Particular month for each year
 This Radar chart shows total Sale for Particular month for each year 2011 to 2014.
 ![Year_Month wise Sales](https://user-images.githubusercontent.com/114546267/193743300-bc216a1c-f029-458c-a965-863929d2acc7.png)
+
+## Image4: Global Sales and Profit
+This map shows total Sales and Profit for different states worldwide. 
+![Global Sales and Profit](https://user-images.githubusercontent.com/114546267/193743961-0614b688-f09b-408b-8758-d069dcc86ffe.png)
+
