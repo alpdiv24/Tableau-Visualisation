@@ -1,11 +1,12 @@
 ## Tableau-Visualisation
 ## Tableau:
 Tableau is Leading Data visualization tool.
-Version: 2021.1.18
+Version: 2022.2.0
 ## Author: Alpesh Chovatiya, 03-oct-2022
 ## Dataset Info:
 Rows: 51290
 Columns: 24 
+<pre>
  #   Column          Non-Null Count  Dtype         
 ---  ------          --------------  -----         
  0   Row ID          51290 non-null  int64         
@@ -33,7 +34,8 @@ Columns: 24
  22  Shipping Cost   51290 non-null  float64       
  23  Order Priority  51290 non-null  object        
 dtypes: datetime64(2), float64(5), int64(2), object(15)
-memory usage: 9.4+ MB
+</pre>
+
 ## Image1: Diff in Avg Sales - quarterly
 This chart shows % difference in average sales for each category from the previous year for each Quarter.
 ![Diff in Avg Sales - quarterly](https://user-images.githubusercontent.com/114546267/193604744-c87663a5-92c7-49c6-86f3-92485453b247.png)
